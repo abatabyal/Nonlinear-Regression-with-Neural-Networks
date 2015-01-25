@@ -1,2 +1,2 @@
 # Nonlinear-Regression-with-Neural-Networks
-Implementation of Nonlinear-Regression-with-Neural-Networks. The algorithm was implemented in ipython and with contribution from Professsor Charles Anderson, CSU.
+Implementation of Nonlinear-Regression-with-Neural-Networks. The algorithm was implemented in ipython and with contribution from Professsor Charles Anderson, CSU. It was used to predict the concentration of NO2 in data set No2 which comes from the Datasets page of WEKA, a collection of machine learning algorithms and data hosted at the University of Waikato in New Zealand.
